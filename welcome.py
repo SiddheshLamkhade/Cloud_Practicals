@@ -1,1 +1,1 @@
-print("Welcome to Pratik");
+print("Welcome from Pratik");
